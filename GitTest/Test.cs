@@ -12,7 +12,7 @@ namespace GitTest
 {
     public class Test
     {
-        string token = ""; //임시 삭제
+        string token = ""; //임시 삭제..
         string today = DateTime.Now.ToString(@"dd'/'MM'/'yyyy");
         private bool SetRepositoryList(string json)
         {
